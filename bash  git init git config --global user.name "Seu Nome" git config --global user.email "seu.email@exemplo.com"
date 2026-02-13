@@ -1,0 +1,6 @@
+bash
+
+git init
+git config --global user.name "Alexandre"
+git config --global user.email "alexandre.almeida.2k09@gmail.com"
+
